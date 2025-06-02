@@ -28,7 +28,7 @@ def main(_):
 
     #################### set up eval model ####################
     device = f"cuda" if torch.cuda.is_available() else "cpu"
-    model, _, preprocess = open_clip.create_model_and_transforms('ViT-H-14', pretrained='../../model/model/CLIP-ViT-H-14-laion2B-s32B-b79K/open_clip_pytorch_model.bin')
+    model, _, preprocess = open_clip.create_model_and_transforms('ViT-H-14', pretrained='laion2B-s32B-b79K')
     tokenizer = open_clip.get_tokenizer('ViT-H-14')
     model = model.to(device)
 
