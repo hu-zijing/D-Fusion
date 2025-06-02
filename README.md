@@ -13,11 +13,11 @@
 
 ## Introduction
 
-The practical applications of diffusion models have been limited by the misalignment between generated images and corresponding text prompts. Recent studies have introduced direct preference optimization (DPO) to enhance the alignment of these models. However, the effectiveness of DPO is constrained by the issue of visual inconsistency, where the significant visual disparity between well-aligned and poorly-aligned images prevents diffusion models from identifying which factors contribute positively to alignment during fine-tuning. To address this issue, this paper introduces D-Fusion, a method to construct DPO-trainable visually consistent samples. On one hand, by performing mask-guided self-attention fusion, the resulting images are not only well-aligned, but also visually consistent with given poorly-aligned images. On the other hand, D-Fusion can retain the denoising trajectories of the resulting images, which are essential for DPO training. Extensive experiments demonstrate the effectiveness of D-Fusion in improving prompt-image alignment when applied to different reinforcement learning algorithms.
+The practical applications of diffusion models have been limited by the misalignment between generated images and corresponding text prompts. Recent studies have introduced direct preference optimization (DPO) to enhance the alignment of these models. However, the effectiveness of DPO is constrained by the issue of visual inconsistency, where the significant visual disparity between well-aligned and poorly-aligned images prevents diffusion models from identifying which factors contribute positively to alignment during fine-tuning. To address this issue, this paper introduces **D-Fusion**, a method to construct DPO-trainable visually consistent samples. On one hand, by performing mask-guided self-attention fusion, the resulting images are not only well-aligned, but also visually consistent with given poorly-aligned images. On the other hand, D-Fusion can retain the denoising trajectories of the resulting images, which are essential for DPO training. Extensive experiments demonstrate the effectiveness of D-Fusion in improving prompt-image alignment when applied to different reinforcement learning algorithms.
 
 ## Run
 
-After configuring the environment and downloading the pre-trained diffusion model (*e.g.*, [sd2.1-base](https://huggingface.co/stabilityai/stable-diffusion-2-1-base)), users can first run a quick test to check if the code works correctly: 
+After configuring the environment and downloading the pre-trained diffusion model (*e.g.*, [sd2.1-base](https://huggingface.co/stabilityai/stable-diffusion-2-1-base)), users can first run a **quick test** to check if the code works correctly: 
 ```bash
 ## Terminal 1
 python3 run_eval.py --config.dev_id 0 --config.exp_name test
@@ -29,7 +29,7 @@ These two commands should be executed in separate terminal windows. The `run_sam
 
 All results will be saved in the directory `./data/test/`. you can see base images, reference images and injected images (target images) there. 
 
-After the quick test completes successfully, users can proceed to run the full version: 
+After the quick test completes successfully, users can proceed to run the **full version**: 
 ```bash
 ## Terminal 1
 python3 run_eval.py --config.dev_id 0 --config.exp_name test2
@@ -41,7 +41,7 @@ All results will be saved in the directory `./data/test2/`.
 
 ## Note
 
-To implement **D-Fusion** during the denoising process, we made direct modifications to the `diffusers` library (version 0.24.0). As evident in the codebase, we copied the entire `diffusers` repository to facilitate these changes.
+To implement D-Fusion during the denoising process, we made direct modifications to the `diffusers` library (version 0.24.0). As evident in the codebase, we copied the entire `diffusers` repository to facilitate these changes.
 
 Unfortunately, such modifications are not automatically compatible with future versions of the library. Therefore, if users wish to experiment with newer versions of `diffusers` or updated diffusion models (*e.g.*, Stable Diffusion 3.5), they will need to make corresponding changes after understanding the code structure. Fortunately, the required modifications are relatively minor. We modified only the following files: 
 * `diffusers/models/unet_2d_condition.py`
@@ -49,9 +49,11 @@ Unfortunately, such modifications are not automatically compatible with future v
 * `diffusers/models/transformer_2d.py`
 * `diffusers/models/attention.py`
 * `diffusers/models/attention_processor.py`
-Most of these changes involve simple parameter passing. The core logic of **D-Fusion** resides in two places:
+
+Most of these changes involve simple parameter passing. The core logic of D-Fusion resides in two places:
 * The `forward` function of `class UNet2DConditionModel` in `unet_2d_condition.py`
 * The `__call__` function of `class AttnProcessor` in `attention_processor.py`
+
 It is worth noting that we used the `LoRAAttnProcessor`, which will be downgraded to `AttnProcessor` at runtime. Thus we made our changes in `class AttnProcessor`. If users are using a different attention processor (*e.g.*, `JointAttnProcessor2_0` for Stable Diffusion 3.5), they need to adapt the corresponding class accordingly.
 
 ## Acknowlegement
