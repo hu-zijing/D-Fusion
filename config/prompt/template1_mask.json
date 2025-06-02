@@ -1,0 +1,282 @@
+{
+    "a cat eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a cat driving a car": [
+        0.03,
+        0.01
+    ],
+    "a cat playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a dog driving a car": [
+        0.03,
+        0.01
+    ],
+    "a dog playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a dog eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a horse playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a horse eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a horse driving a car": [
+        0.03,
+        0.01
+    ],
+    "a monkey eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a monkey driving a car": [
+        0.03,
+        0.01
+    ],
+    "a monkey playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a rabbit driving a car": [
+        0.03,
+        0.01
+    ],
+    "a rabbit playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a rabbit eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a zebra playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a zebra eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a zebra driving a car": [
+        0.03,
+        0.01
+    ],
+    "a sheep eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a sheep driving a car": [
+        0.03,
+        0.01
+    ],
+    "a sheep playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a deer driving a car": [
+        0.03,
+        0.01
+    ],
+    "a deer playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a deer eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a cow playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a cow eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a cow driving a car": [
+        0.03,
+        0.01
+    ],
+    "a goat eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a goat driving a car": [
+        0.03,
+        0.01
+    ],
+    "a goat playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a lion driving a car": [
+        0.03,
+        0.01
+    ],
+    "a lion playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a lion eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a tiger playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a tiger eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a tiger driving a car": [
+        0.03,
+        0.01
+    ],
+    "a bear eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a bear driving a car": [
+        0.03,
+        0.01
+    ],
+    "a bear playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a raccoon driving a car": [
+        0.03,
+        0.01
+    ],
+    "a raccoon playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a raccoon eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a fox playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a fox eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a fox driving a car": [
+        0.03,
+        0.01
+    ],
+    "a wolf eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a wolf driving a car": [
+        0.03,
+        0.01
+    ],
+    "a wolf playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a lizard driving a car": [
+        0.03,
+        0.01
+    ],
+    "a lizard playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a lizard eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a shark playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a shark eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a shark driving a car": [
+        0.03,
+        0.01
+    ],
+    "a whale eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a whale driving a car": [
+        0.03,
+        0.01
+    ],
+    "a whale playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a dolphin driving a car": [
+        0.03,
+        0.01
+    ],
+    "a dolphin playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a dolphin eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a squirrel driving a car": [
+        0.03,
+        0.01
+    ],
+    "a mouse playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a rat eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a turtle driving a car": [
+        0.03,
+        0.01
+    ],
+    "a frog playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a chicken eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a duck driving a car": [
+        0.03,
+        0.01
+    ],
+    "a goose playing basketball": [
+        0.03,
+        0.02
+    ],
+    "a pig eating a sandwich": [
+        0.03,
+        0.005
+    ],
+    "a llama driving a car": [
+        0.03,
+        0.01
+    ]
+}

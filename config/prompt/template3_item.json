@@ -1,0 +1,322 @@
+{
+    "the umbrella above the table": [
+        1,
+        4
+    ],
+    "the trees above the train": [
+        1,
+        4
+    ],
+    "the laptop above the table": [
+        1,
+        4
+    ],
+    "the table below the laptop": [
+        1,
+        4
+    ],
+    "the building below the tower": [
+        1,
+        4
+    ],
+    "the snowboard below the person": [
+        1,
+        4
+    ],
+    "the dog on the right of the vase": [
+        1,
+        7
+    ],
+    "the table above the dog": [
+        1,
+        4
+    ],
+    "the shirt above the pants": [
+        1,
+        4
+    ],
+    "the suitcase above the dog": [
+        1,
+        4
+    ],
+    "the suitcase on the left of the person": [
+        1,
+        7
+    ],
+    "the dog below the suitcase": [
+        1,
+        4
+    ],
+    "the dog on the left of the person": [
+        1,
+        7
+    ],
+    "the person on the right of the dog": [
+        1,
+        7
+    ],
+    "the person on the right of the suitcase": [
+        1,
+        7
+    ],
+    "the person on the right of the hand": [
+        1,
+        7
+    ],
+    "the helmet above the glasses": [
+        1,
+        4
+    ],
+    "the helmet above the person": [
+        1,
+        4
+    ],
+    "the roof above the bus": [
+        1,
+        4
+    ],
+    "the wheel below the engine": [
+        1,
+        4
+    ],
+    "the engine above the wheel": [
+        1,
+        4
+    ],
+    "the car on the right of the person": [
+        1,
+        7
+    ],
+    "the table below the glasses": [
+        1,
+        4
+    ],
+    "the shirt above the shoes": [
+        1,
+        4
+    ],
+    "the jacket above the pants": [
+        1,
+        4
+    ],
+    "the kite above the building": [
+        1,
+        4
+    ],
+    "the kite above the sand": [
+        1,
+        4
+    ],
+    "the building below the kite": [
+        1,
+        4
+    ],
+    "the sand below the kite": [
+        1,
+        4
+    ],
+    "the monitor above the keyboard": [
+        1,
+        4
+    ],
+    "the keyboard above the mouse": [
+        1,
+        4
+    ],
+    "the mouse below the keyboard": [
+        1,
+        4
+    ],
+    "the computer below the counter": [
+        1,
+        4
+    ],
+    "the glasses below the laptop": [
+        1,
+        4
+    ],
+    "the shirt above the jeans": [
+        1,
+        4
+    ],
+    "the jeans above the shoes": [
+        1,
+        4
+    ],
+    "the bag below the sink": [
+        1,
+        4
+    ],
+    "the person on the left of the ball": [
+        1,
+        7
+    ],
+    "the ball on the right of the person": [
+        1,
+        7
+    ],
+    "the hat above the sunglasses": [
+        1,
+        4
+    ],
+    "the tree below the clock": [
+        1,
+        4
+    ],
+    "the clock above the tree": [
+        1,
+        4
+    ],
+    "the skis below the pants": [
+        1,
+        4
+    ],
+    "the pants below the jacket": [
+        1,
+        4
+    ],
+    "the sunglasses below the hat": [
+        1,
+        4
+    ],
+    "the person on the left of the pillow": [
+        1,
+        7
+    ],
+    "the bowl on the right of the plate": [
+        1,
+        7
+    ],
+    "the building on the right of the truck": [
+        1,
+        7
+    ],
+    "the person on the left of the bottle": [
+        1,
+        7
+    ],
+    "the bottle on the right of the person": [
+        1,
+        7
+    ],
+    "the box on the left of the post": [
+        1,
+        7
+    ],
+    "the truck on the right of the car": [
+        1,
+        7
+    ],
+    "the car on the right of the umbrella": [
+        1,
+        7
+    ],
+    "the jacket on the left of the coat": [
+        1,
+        7
+    ],
+    "the monitor on the left of the person": [
+        1,
+        7
+    ],
+    "the phone on the right of the monitor": [
+        1,
+        7
+    ],
+    "the phone on the left of the person": [
+        1,
+        7
+    ],
+    "the shirt below the helmet": [
+        1,
+        4
+    ],
+    "the pants below the shirt": [
+        1,
+        4
+    ],
+    "the person on the left of the bear": [
+        1,
+        7
+    ],
+    "the person on the right of the bear": [
+        1,
+        7
+    ],
+    "the bear on the right of the person": [
+        1,
+        7
+    ],
+    "the bear on the left of the person": [
+        1,
+        7
+    ],
+    "the bus on the right of the car": [
+        1,
+        7
+    ],
+    "the bus on the right of the motorcycle": [
+        1,
+        7
+    ],
+    "the car on the left of the bus": [
+        1,
+        7
+    ],
+    "the motorcycle on the left of the bus": [
+        1,
+        7
+    ],
+    "the motorcycle on the left of the car": [
+        1,
+        7
+    ],
+    "the table below the monitor": [
+        1,
+        4
+    ],
+    "the person below the monitor": [
+        1,
+        4
+    ],
+    "the basket on the right of the person": [
+        1,
+        7
+    ],
+    "the faucet on the right of the bottle": [
+        1,
+        7
+    ],
+    "the pot on the right of the faucet": [
+        1,
+        7
+    ],
+    "the van on the right of the car": [
+        1,
+        7
+    ],
+    "the car on the left of the van": [
+        1,
+        7
+    ],
+    "the person on the left of the train": [
+        1,
+        7
+    ],
+    "the hat on the left of the shirt": [
+        1,
+        7
+    ],
+    "the plate on the left of the glasses": [
+        1,
+        7
+    ],
+    "the person on the left of the cart": [
+        1,
+        7
+    ],
+    "the bed on the left of the chair": [
+        1,
+        7
+    ]
+}

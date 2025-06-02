@@ -1,0 +1,322 @@
+{
+    "the umbrella above the table": [
+        0.03,
+        0.01
+    ],
+    "the trees above the train": [
+        0.01,
+        0.03
+    ],
+    "the laptop above the table": [
+        0.02,
+        0.01
+    ],
+    "the table below the laptop": [
+        0.01,
+        0.02
+    ],
+    "the building below the tower": [
+        0.005,
+        0.01
+    ],
+    "the snowboard below the person": [
+        0.03,
+        0.005
+    ],
+    "the dog on the right of the vase": [
+        0.01,
+        0.03
+    ],
+    "the table above the dog": [
+        0.01,
+        0.01
+    ],
+    "the shirt above the pants": [
+        0.01,
+        0.01
+    ],
+    "the suitcase above the dog": [
+        0.03,
+        0.01
+    ],
+    "the suitcase on the left of the person": [
+        0.03,
+        0.005
+    ],
+    "the dog below the suitcase": [
+        0.01,
+        0.03
+    ],
+    "the dog on the left of the person": [
+        0.02,
+        0.005
+    ],
+    "the person on the right of the dog": [
+        0.01,
+        0.02
+    ],
+    "the person on the right of the suitcase": [
+        0.01,
+        0.03
+    ],
+    "the person on the right of the hand": [
+        0.01,
+        0.01
+    ],
+    "the helmet above the glasses": [
+        0.03,
+        0.01
+    ],
+    "the helmet above the person": [
+        0.03,
+        0.01
+    ],
+    "the roof above the bus": [
+        0.01,
+        0.01
+    ],
+    "the wheel below the engine": [
+        0.01,
+        0.0
+    ],
+    "the engine above the wheel": [
+        0.0,
+        0.01
+    ],
+    "the car on the right of the person": [
+        0.01,
+        0.01
+    ],
+    "the table below the glasses": [
+        0.01,
+        0.01
+    ],
+    "the shirt above the shoes": [
+        0.01,
+        0.03
+    ],
+    "the jacket above the pants": [
+        0.03,
+        0.01
+    ],
+    "the kite above the building": [
+        0.03,
+        0.01
+    ],
+    "the kite above the sand": [
+        0.03,
+        0.03
+    ],
+    "the building below the kite": [
+        0.01,
+        0.03
+    ],
+    "the sand below the kite": [
+        0.03,
+        0.03
+    ],
+    "the monitor above the keyboard": [
+        0.01,
+        0.03
+    ],
+    "the keyboard above the mouse": [
+        0.03,
+        0.03
+    ],
+    "the mouse below the keyboard": [
+        0.03,
+        0.03
+    ],
+    "the computer below the counter": [
+        0.01,
+        0.0
+    ],
+    "the glasses below the laptop": [
+        0.01,
+        0.02
+    ],
+    "the shirt above the jeans": [
+        0.01,
+        0.03
+    ],
+    "the jeans above the shoes": [
+        0.03,
+        0.03
+    ],
+    "the bag below the sink": [
+        0.03,
+        0.03
+    ],
+    "the person on the left of the ball": [
+        0.01,
+        0.01
+    ],
+    "the ball on the right of the person": [
+        0.01,
+        0.01
+    ],
+    "the hat above the sunglasses": [
+        0.03,
+        0.03
+    ],
+    "the tree below the clock": [
+        0.03,
+        0.03
+    ],
+    "the clock above the tree": [
+        0.03,
+        0.03
+    ],
+    "the skis below the pants": [
+        0.03,
+        0.01
+    ],
+    "the pants below the jacket": [
+        0.01,
+        0.03
+    ],
+    "the sunglasses below the hat": [
+        0.03,
+        0.03
+    ],
+    "the person on the left of the pillow": [
+        0.01,
+        0.02
+    ],
+    "the bowl on the right of the plate": [
+        0.01,
+        0.01
+    ],
+    "the building on the right of the truck": [
+        0.01,
+        0.01
+    ],
+    "the person on the left of the bottle": [
+        0.01,
+        0.02
+    ],
+    "the bottle on the right of the person": [
+        0.02,
+        0.01
+    ],
+    "the box on the left of the post": [
+        0.01,
+        0.01
+    ],
+    "the truck on the right of the car": [
+        0.01,
+        0.01
+    ],
+    "the car on the right of the umbrella": [
+        0.01,
+        0.03
+    ],
+    "the jacket on the left of the coat": [
+        0.01,
+        0.01
+    ],
+    "the monitor on the left of the person": [
+        0.01,
+        0.01
+    ],
+    "the phone on the right of the monitor": [
+        0.03,
+        0.01
+    ],
+    "the phone on the left of the person": [
+        0.01,
+        0.01
+    ],
+    "the shirt below the helmet": [
+        0.01,
+        0.03
+    ],
+    "the pants below the shirt": [
+        0.01,
+        0.01
+    ],
+    "the person on the left of the bear": [
+        0.01,
+        0.03
+    ],
+    "the person on the right of the bear": [
+        0.01,
+        0.03
+    ],
+    "the bear on the right of the person": [
+        0.03,
+        0.01
+    ],
+    "the bear on the left of the person": [
+        0.03,
+        0.01
+    ],
+    "the bus on the right of the car": [
+        0.01,
+        0.01
+    ],
+    "the bus on the right of the motorcycle": [
+        0.01,
+        0.03
+    ],
+    "the car on the left of the bus": [
+        0.01,
+        0.01
+    ],
+    "the motorcycle on the left of the bus": [
+        0.03,
+        0.01
+    ],
+    "the motorcycle on the left of the car": [
+        0.03,
+        0.01
+    ],
+    "the table below the monitor": [
+        0.01,
+        0.01
+    ],
+    "the person below the monitor": [
+        0.01,
+        0.01
+    ],
+    "the basket on the right of the person": [
+        0.03,
+        0.01
+    ],
+    "the faucet on the right of the bottle": [
+        0.03,
+        0.02
+    ],
+    "the pot on the right of the faucet": [
+        0.03,
+        0.03
+    ],
+    "the van on the right of the car": [
+        0.03,
+        0.01
+    ],
+    "the car on the left of the van": [
+        0.01,
+        0.03
+    ],
+    "the person on the left of the train": [
+        0.01,
+        0.03
+    ],
+    "the hat on the left of the shirt": [
+        0.03,
+        0.01
+    ],
+    "the plate on the left of the glasses": [
+        0.01,
+        0.01
+    ],
+    "the person on the left of the cart": [
+        0.01,
+        0.03
+    ],
+    "the bed on the left of the chair": [
+        0.03,
+        0.03
+    ]
+}
